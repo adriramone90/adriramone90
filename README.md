@@ -1,4 +1,4 @@
-#Hola, soy **Adrián González!**#
+Hola, soy **Adrián González!**
 
 >La Vida siempre comienza un paso afuera de tu zona de confort!
 
